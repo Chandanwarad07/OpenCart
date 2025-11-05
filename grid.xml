@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<suite name="Grid Suite">
+
+  <test name="Run On Grid">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCase.TC001_AccountRegistrationTest"/>
+    </classes>
+  </test>
+
+</suite>
+

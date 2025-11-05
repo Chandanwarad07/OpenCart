@@ -1,0 +1,23 @@
+09:58:19.445 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+09:58:19.658 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Ravina\.cache\selenium\chromedriver\win64\141.0.7390.122\chromedriver.exe
+09:58:21.611 [main] INFO  testCase.TC001_AccountRegistrationTest - === Running Locally → chrome ===
+09:58:22.864 [main] INFO  testCase.TC001_AccountRegistrationTest - ******** Starting registration test ********
+09:58:22.998 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on My Account link
+09:58:23.444 [main] INFO  testCase.TC001_AccountRegistrationTest - Clicked on Register link
+09:58:23.446 [main] INFO  testCase.TC001_AccountRegistrationTest - Entering first name
+09:58:23.602 [main] INFO  testCase.TC001_AccountRegistrationTest - Entering last name
+09:58:23.892 [main] INFO  testCase.TC001_AccountRegistrationTest - Entering phone number
+09:58:24.045 [main] INFO  testCase.TC001_AccountRegistrationTest - Entering password
+09:58:25.239 [main] INFO  testCase.TC001_AccountRegistrationTest - Validating confirmation message...
+09:58:25.284 [main] INFO  testCase.TC001_AccountRegistrationTest - ✅ Account registration test passed successfully!
+09:58:25.284 [main] INFO  testCase.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+09:58:25.677 [main] INFO  testCase.TC001_AccountRegistrationTest - === Browser Closed ===
+09:58:25.718 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+09:58:25.800 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Ravina\.cache\selenium\chromedriver\win64\141.0.7390.122\chromedriver.exe
+09:58:26.812 [main] INFO  testCase.TC0002_LoginTest - === Running Locally → chrome ===
+09:58:27.513 [main] INFO  testCase.TC0002_LoginTest - ******* Starting Login Test *******
+09:58:28.110 [main] INFO  testCase.TC0002_LoginTest - Enter email: chandanwarad07@gmail.com
+09:58:28.227 [main] INFO  testCase.TC0002_LoginTest - Enter password
+09:58:28.317 [main] INFO  testCase.TC0002_LoginTest - Clicked on Login button
+09:58:29.007 [main] INFO  testCase.TC0002_LoginTest - ✅ Login Test Passed Successfully!
+09:58:29.402 [main] INFO  testCase.TC0002_LoginTest - === Browser Closed ===
